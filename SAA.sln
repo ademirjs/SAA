@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAA.Model", "SAA.Model\SAA.Model.csproj", "{0964E328-5639-46B4-BF0E-88A58C88DDE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAA.Repository", "SAA.Repository\SAA.Repository.csproj", "{6FF85FEC-2411-49D8-AE22-AB494AD9743C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAA.Interfaces", "SAA.Interface\SAA.Interfaces.csproj", "{7ACD299D-467E-4EDE-BE3F-49E94B436566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAA.WebApi", "SAA.WebApi\SAA.WebApi.csproj", "{E65B862B-492A-471E-AE53-0E4D5BFA3094}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs2012:8080/tfs/desenvolvimento
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SAA.Model\\SAA.Model.csproj
+		SccProjectName1 = SAA.Model
+		SccLocalPath1 = SAA.Model
+		SccProjectUniqueName2 = SAA.Repository\\SAA.Repository.csproj
+		SccProjectName2 = SAA.Repository
+		SccLocalPath2 = SAA.Repository
+		SccProjectUniqueName3 = SAA.Interface\\SAA.Interfaces.csproj
+		SccProjectName3 = SAA.Interface
+		SccLocalPath3 = SAA.Interface
+		SccProjectUniqueName4 = SAA.WebApi\\SAA.WebApi.csproj
+		SccProjectName4 = SAA.WebApi
+		SccLocalPath4 = SAA.WebApi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0964E328-5639-46B4-BF0E-88A58C88DDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0964E328-5639-46B4-BF0E-88A58C88DDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0964E328-5639-46B4-BF0E-88A58C88DDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0964E328-5639-46B4-BF0E-88A58C88DDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF85FEC-2411-49D8-AE22-AB494AD9743C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF85FEC-2411-49D8-AE22-AB494AD9743C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF85FEC-2411-49D8-AE22-AB494AD9743C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF85FEC-2411-49D8-AE22-AB494AD9743C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACD299D-467E-4EDE-BE3F-49E94B436566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACD299D-467E-4EDE-BE3F-49E94B436566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACD299D-467E-4EDE-BE3F-49E94B436566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACD299D-467E-4EDE-BE3F-49E94B436566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65B862B-492A-471E-AE53-0E4D5BFA3094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65B862B-492A-471E-AE53-0E4D5BFA3094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65B862B-492A-471E-AE53-0E4D5BFA3094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65B862B-492A-471E-AE53-0E4D5BFA3094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\bin\Debug\SAA.Interface.dll
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\bin\Debug\SAA.Interface.pdb
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\bin\Debug\SAA.Model.dll
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\bin\Debug\EntityFramework.dll
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\bin\Debug\SAA.Model.pdb
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\bin\Debug\EntityFramework.xml
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\obj\Debug\SAA.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\obj\Debug\SAA.Interface.dll
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Interface\obj\Debug\SAA.Interface.pdb

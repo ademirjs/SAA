@@ -1,0 +1,5 @@
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Repository\bin\Debug\SAA.Repository.dll
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Repository\bin\Debug\SAA.Repository.pdb
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Repository\obj\Debug\SAA.Repository.csprojResolveAssemblyReference.cache
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Repository\obj\Debug\SAA.Repository.dll
+C:\Users\ademir.jose\documents\visual studio 2012\Projects\Kerberos\SAA.Repository\obj\Debug\SAA.Repository.pdb
